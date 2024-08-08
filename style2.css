@@ -1,0 +1,19 @@
+/* body {
+    background-color: gray;
+    background: url("https://asset-2.tstatic.net/jatim/foto/bank/images/Artinya-Apa-Bang-Messi-viral-ABCAD.jpg");
+    background-position: left top;
+    
+} */
+.container {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container div {
+    padding: 10px;
+    text-align: center;
+    font-size: 14sp;
+    color: white;
+    border: 2px solid;
+    background-color:green;
+}

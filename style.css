@@ -1,0 +1,44 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: #ffff;
+  margin: 0;
+  border: 5px solid;
+  padding: 8px;
+}
+
+h2 {
+  color: #ffff;
+  margin: 0;
+  border: 5px solid;
+  padding: 8px;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+p {
+  color: black;
+}
+
+.mobil {
+  color: green;
+  margin: 0%;
+}
+
+#avanza {
+  color: yellow;
+}
+
+#xenia {
+  color: aqua;
+}
+
+a:hover {
+  background-color: yellow;
+}
